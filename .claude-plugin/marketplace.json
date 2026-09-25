@@ -1,0 +1,11 @@
+{
+  "name": "hotel-sales-desk",
+  "owner": { "name": "seven7rees" },
+  "plugins": [
+    {
+      "name": "hotel-sales-desk",
+      "source": "./",
+      "description": "Delphi BEO, resume, contract and inbox workflows for hotel sales teams."
+    }
+  ]
+}

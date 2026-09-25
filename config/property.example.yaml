@@ -1,0 +1,67 @@
+# Copy to .hotel-desk/property.yaml in your project and fill in every value.
+# Run the property-setup skill to discover the Salesforce IDs automatically.
+# Example values describe a FICTIONAL 400-room hotel with 40,000 sq ft of function space.
+
+property:
+  name: "Example Grand Hotel & Conference Center"
+  short_code: "EGH"                 # appears in template names, e.g. "BEO [EGH]"
+  guest_rooms: 400
+  function_space_sqft: 40000
+  timezone: "America/Chicago"
+  address: "100 Example Avenue, Example City, ST 00000"
+
+salesforce:
+  cli_alias: "delphi"               # sf org alias
+  my_domain: "example.my.salesforce.com"
+  vf_domain: "example--nihrm.vf.force.com"
+  namespace: "nihrm__"
+  property_picklist_value: "Example Grand Hotel"
+  location_id: ""                   # nihrm__Location__c
+  beo_number_counter_id: ""         # record holding nihrm__BeoNumber__c
+  catering_manager_user_id: ""
+
+templates:                          # names exactly as they appear on the Merge page
+  beo: "BEO [EGH]"
+  group_resume: "Group Resume [EGH]"
+  contract: "Group Contract [EGH]"
+  addendum: "Contract Addendum [EGH]"
+  beo_document_template_id: ""      # nihrm__DocumentTemplate__c used on new BEO docs
+
+financials:
+  service_charge_pct: 24.0          # taxable service charge on F&B and rental
+  service_charge_split:             # must add up to service_charge_pct
+    admin_pct: 6.0
+    gratuity_pct: 18.0
+  sales_tax_pct: 8.5
+  tax_applies_to_service_charge: true
+  contract_approval_threshold: 50000   # total value needing a director signature
+  small_group_fee: { under_guests: 20, fee: 150 }
+
+function_space:                     # 40,000 sq ft total
+  - { name: "Grand Ballroom", sqft: 18000, divisible: ["A", "B", "C", "D"], banquet_cap: 1200 }
+  - { name: "Junior Ballroom", sqft: 8000, divisible: ["1", "2"], banquet_cap: 500 }
+  - { name: "Terrace Pavilion", sqft: 4000, banquet_cap: 250, outdoor: true, weather_backup: "Junior Ballroom" }
+  - { name: "Boardroom", sqft: 800, conference_cap: 20 }
+  - { name: "Breakouts 1-12", sqft: 9200, classroom_cap_each: 50 }
+
+email:
+  client: "outlook"                 # Outlook desktop on Windows (COM) is the supported path
+  font: "Calibri"
+  font_size_pt: 11
+  signature_file: "Example Signature.htm"   # in %APPDATA%\Microsoft\Signatures
+  banned_phrases: ["hope this finds you well", "reach out", "touch base", "circle back", "at your earliest convenience"]
+  folders:
+    answered_groups: "Groups"
+    no_reply_needed: "Sales Ops"
+  review_before_ready: true         # fresh-context review on every client-facing draft
+
+esign:
+  vendor: "Canary"                  # Canary, DocuSign, Adobe Sign, or none
+  signing_due_days: 7
+
+files:
+  contracts_root: "S:/Sales/Contracts/{year}"
+  beo_root: "S:/Catering/BEOs/{year}"
+  menus:
+    banquet: "S:/Catering/Menus/Banquet Menu 2027.pdf"
+    wedding: "S:/Catering/Menus/Wedding Menu 2027.pdf"

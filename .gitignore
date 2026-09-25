@@ -1,0 +1,7 @@
+.hotel-desk/
+*.pdf
+*.docx
+Downloads/
+__pycache__/
+*.pyc
+.claude/

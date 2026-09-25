@@ -1,0 +1,8 @@
+{
+  "name": "hotel-sales-desk",
+  "version": "0.1.0",
+  "description": "Claude Code workflows for hotel sales and event teams on Amadeus Delphi (Salesforce): BEOs, group resumes, contracts and addenda, and sales inbox triage.",
+  "author": { "name": "seven7rees" },
+  "license": "SEE LICENSE",
+  "keywords": ["hotel", "hospitality", "delphi", "salesforce", "beo", "catering", "group sales"]
+}
