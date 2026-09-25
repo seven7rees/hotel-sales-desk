@@ -18,6 +18,12 @@ Built from real BEO, contract, resume and inbox workflows, generalized so no pro
 
 The config example describes a fictional 400-room hotel with 40,000 sq ft of function space (an 18,000 sq ft divisible ballroom, an 8,000 sq ft junior ballroom, a 4,000 sq ft outdoor terrace, a boardroom, and 12 breakout rooms). Replace it with your own numbers.
 
+## Pricing
+
+- **Setup:** $1,000 one-time.
+- **License:** $200 per month, per property.
+- Multi-property and management-company pricing available on request.
+
 ## Install
 
 ```
