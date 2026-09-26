@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seven7rees.github.io/hotel-sales-desk/sitemap.xml
+Sitemap: https://patrickwdavis.com/hotel-sales-desk/sitemap.xml

@@ -1,5 +1,7 @@
 # hotel-sales-desk
 
+**[Live site & pricing →](https://patrickwdavis.com/hotel-sales-desk/)**
+
 Claude Code skills for hotel and resort sales & events teams running **Amadeus Delphi** (the `nihrm__` managed package on Salesforce) — automation for BEOs, group resumes, contracts, addenda, and sales inbox triage.
 
 Built for hotels, resorts, and management companies running Delphi.fdc on Salesforce who want less manual data entry in their sales and catering department, not another system to log into. Built from real BEO, contract, resume and inbox workflows, generalized so no property, client, or staff data ships with the plugin. Every property-specific value lives in one config file you fill in.
