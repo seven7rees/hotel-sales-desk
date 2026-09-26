@@ -33,6 +33,5 @@ Not a vendor demo. Built and used inside a working hotel sales and events depart
 - Multi-property and management-company pricing available.
 
 ## CTA
-**[Book a 20-minute call →]** (Calendly link — swap in your real scheduling link)
 **[Pay the setup fee →](https://buy.stripe.com/aFaeVc7km4MF6ZG0g5bQY00)** — $1,000 one-time
 **[Start the monthly license →](https://buy.stripe.com/dRmaEW9sua6ZabS8MBbQY01)** — $200/month, per seat
