@@ -1,8 +1,8 @@
 # hotel-sales-desk
 
-Claude Code skills for hotel sales and events teams running **Amadeus Delphi** (the `nihrm__` managed package on Salesforce).
+Claude Code skills for hotel and resort sales & events teams running **Amadeus Delphi** (the `nihrm__` managed package on Salesforce) — automation for BEOs, group resumes, contracts, addenda, and sales inbox triage.
 
-Built from real BEO, contract, resume and inbox workflows, generalized so no property, client, or staff data ships with the plugin. Every property-specific value lives in one config file you fill in.
+Built for hotels, resorts, and management companies running Delphi.fdc on Salesforce who want less manual data entry in their sales and catering department, not another system to log into. Built from real BEO, contract, resume and inbox workflows, generalized so no property, client, or staff data ships with the plugin. Every property-specific value lives in one config file you fill in.
 
 ## What it does
 
@@ -41,6 +41,16 @@ The config example describes a fictional 400-room hotel with 40,000 sq ft of fun
 ## What this is not
 
 Not a Delphi replacement, not a Salesforce admin tool, not legal advice. It automates the mechanical, repeatable parts of the job so a sales and events team spends less time on data entry and more time on the guest and the deal.
+
+## Pricing
+
+- **Setup — $1,000 one-time.** [Book →](https://buy.stripe.com/aFaeVc7km4MF6ZG0g5bQY00) — Delphi connection, config, a working session with your team.
+- **Connectivity license — $200/month, per property.** [Subscribe →](https://buy.stripe.com/dRmaEW9sua6ZabS8MBbQY01)
+- Multi-property and management-company pricing available — open an issue or reach out directly.
+
+## Who this is for
+
+Directors of Sales & Marketing, catering and events managers, and sales coordinators at hotels, resorts, and conference centers running Amadeus Delphi (Delphi.fdc) on the Salesforce platform, looking to cut manual BEO, group resume, and contract work without replacing Delphi or hiring a Salesforce admin.
 
 ## License
 

@@ -1,6 +1,6 @@
 # hotel-sales-desk — landing page copy
 
-Paste into your seven7rees site as a new page. Swap the Stripe link once you create it (see note at bottom).
+Paste into your seven7rees site as a new page. Stripe links are live below.
 
 ---
 
@@ -33,14 +33,6 @@ Not a vendor demo. Built and used inside a working hotel sales and events depart
 - Multi-property and management-company pricing available.
 
 ## CTA
-**[Book a 20-minute call →]** (Calendly link)
-**[Get started →]** (Stripe payment link: $1,000 setup + $200/month)
-
----
-
-### Note for Patrick
-- Create two Stripe Payment Links yourself (I can't create the account or add banking details for you):
-  1. **Setup fee:** $1,000, one-time.
-  2. **License:** $200/month, recurring subscription.
-- Swap the Calendly placeholder for your real scheduling link.
-- Once both links exist, tell me and I'll drop them into this file and the README.
+**[Book a 20-minute call →]** (Calendly link — swap in your real scheduling link)
+**[Pay the setup fee →](https://buy.stripe.com/aFaeVc7km4MF6ZG0g5bQY00)** — $1,000 one-time
+**[Start the monthly license →](https://buy.stripe.com/dRmaEW9sua6ZabS8MBbQY01)** — $200/month, per property
