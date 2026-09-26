@@ -45,7 +45,7 @@ Not a Delphi replacement, not a Salesforce admin tool, not legal advice. It auto
 ## Pricing
 
 - **Setup — $1,000 one-time.** [Book →](https://buy.stripe.com/aFaeVc7km4MF6ZG0g5bQY00) — Delphi connection, config, a working session with your team.
-- **Connectivity license — $200/month, per property.** [Subscribe →](https://buy.stripe.com/dRmaEW9sua6ZabS8MBbQY01)
+- **Connectivity license — $200/month, per seat.** [Subscribe →](https://buy.stripe.com/dRmaEW9sua6ZabS8MBbQY01) — pick your seat count at checkout.
 - Multi-property and management-company pricing available — open an issue or reach out directly.
 
 ## Who this is for

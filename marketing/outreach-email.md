@@ -14,7 +14,7 @@ It catches the stuff that costs real time: items that print at $0 because a reve
 
 [One sentence naming a specific pain you'd guess they have: wedding season volume, a lean events team, whatever fits.]
 
-Setup is $1,000 one-time, then $200 a month per property. Happy to show you a live run on one of your own bookings first, no obligation.
+Setup is $1,000 one-time, then $200 a month per seat. Happy to show you a live run on one of your own bookings first, no obligation.
 
 Worth 20 minutes?
 

@@ -13,11 +13,12 @@ use only. You may:
 ## Commercial license
 
 An active subscription purchased through the links in the
-[README](README.md) (one-time setup fee + monthly connectivity license)
-includes a commercial license to run this software for the sales and events
-operations of your own hotel, resort, or managed property, for as long as
-the subscription stays active. Multi-property agreements cover each named
-property.
+[README](README.md) (one-time setup fee, per property, plus a monthly
+connectivity license, per seat) includes a commercial license to run this
+software for the sales and events operations of your own hotel, resort, or
+managed property. The license covers exactly the number of named individual
+users (seats) paid for, for as long as the subscription stays active. Adding
+staff means adding seats.
 
 The commercial license does **not** permit:
 

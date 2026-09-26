@@ -28,11 +28,11 @@ Your team spends hours a week on repetitive Delphi work: patching item types tha
 Not a vendor demo. Built and used inside a working hotel sales and events department on live Delphi data, then generalized so no property's data ships with it.
 
 ## Pricing
-- **Setup:** $1,000 one-time — Delphi connection, config, a working session with your team.
-- **License:** $200 per month, per property.
+- **Setup:** $1,000 one-time, per property — Delphi connection, config, a working session with your team.
+- **License:** $200 per month, per seat. Pick your seat count at checkout.
 - Multi-property and management-company pricing available.
 
 ## CTA
 **[Book a 20-minute call →]** (Calendly link — swap in your real scheduling link)
 **[Pay the setup fee →](https://buy.stripe.com/aFaeVc7km4MF6ZG0g5bQY00)** — $1,000 one-time
-**[Start the monthly license →](https://buy.stripe.com/dRmaEW9sua6ZabS8MBbQY01)** — $200/month, per property
+**[Start the monthly license →](https://buy.stripe.com/dRmaEW9sua6ZabS8MBbQY01)** — $200/month, per seat
