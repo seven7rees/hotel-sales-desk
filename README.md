@@ -1,5 +1,7 @@
 # hotel-sales-desk
 
+![Luxury hotel and resort exterior](docs/images/hotel-exterior.jpg)
+
 **[Live site & pricing →](https://patrickwdavis.com/hotel-sales-desk/)**
 
 Claude Code skills for hotel and resort sales & events teams running **Amadeus Delphi** (the `nihrm__` managed package on Salesforce) — automation for BEOs, group resumes, contracts, addenda, and sales inbox triage.
@@ -53,6 +55,12 @@ Not a Delphi replacement, not a Salesforce admin tool, not legal advice. It auto
 ## Who this is for
 
 Directors of Sales & Marketing, catering and events managers, and sales coordinators at hotels, resorts, and conference centers running Amadeus Delphi (Delphi.fdc) on the Salesforce platform, looking to cut manual BEO, group resume, and contract work without replacing Delphi or hiring a Salesforce admin.
+
+## Description
+
+hotel-sales-desk is a Claude Code plugin that brings AI-assisted automation to hotel and resort sales and catering departments running Amadeus Delphi (Delphi.fdc) on Salesforce. It's built for the day-to-day work of a DOSM, catering manager, or sales coordinator: generating and fixing Banquet Event Orders (BEOs), producing group resumes, drafting group contracts and addenda from your property's own Delphi merge templates, and triaging a sales inbox into action items and on-brand replies. Unlike a generic Salesforce admin tool or a Delphi replacement, it's narrowly scoped to the repetitive, mechanical parts of hotel sales operations — the hospitality technology and sales-and-catering automation layer that sits on top of the hotel management software you already use, not another system to log into.
+
+**Core topics:** Amadeus Delphi, Delphi Salesforce integration, hotel sales software, hotel and resort sales automation, banquet event order (BEO) software, group resume generation, hotel contract and addenda automation, sales inbox triage, catering and events software, hospitality technology, Claude Code plugin for hotels.
 
 ## License
 
